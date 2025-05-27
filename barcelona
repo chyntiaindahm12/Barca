@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Marc-André ter Stegen",
+      "birth_date": "1992-04-30",
+      "Position": "Goalkeeper",
+      "International": "Germany",
+      "Team": "Barcelona",
+      "Poster": "https://www.hshairclinic.co.uk/wp-content/uploads/2025/01/Marc-Andre-ter-Stegen-during-UEFA-Champions-League-2024.webp"
+    },
+    {
+      "no": "4",
+      "name": "Ronald Araújo",
+      "birth_date": "1999-03-07",
+      "Position": "Defender",
+      "International": "Uruguay",
+      "Team": "Barcelona",
+      "Poster": "https://i.postimg.cc/Zn64gL3x/Araujo.jpg"
+    },
+    {
+      "no": "23",
+      "name": "Jules Koundé",
+      "birth_date": "1998-11-12",
+      "Position": "Defender",
+      "International": "France",
+      "Team": "Barcelona",
+      "Poster": "https://i.postimg.cc/wj0fFKRw/Kounde.jpg"
+    },
+    {
+      "no": "5",
+      "name": "Íñigo Martínez",
+      "birth_date": "1991-05-17",
+      "Position": "Defender",
+      "International": "Spain",
+      "Team": "Barcelona",
+      "Poster": "https://i.postimg.cc/GpPYqz6D/Inigo-Martinez.jpg"
+    },
+    {
+      "no": "8",
+      "name": "Pedri",
+      "birth_date": "2002-11-25",
+      "Position": "MIDFIELDERS",
+      "International": "Spain",
+      "Team": "Barcelona",
+      "Poster": "https://i.postimg.cc/Px7SnVJ4/Pedri.jpg"
+    },
+    {
+      "no": "22",
+      "name": "İlkay Gündoğan",
+      "birth_date": "1990-10-24",
+      "Position": "MIDFIELDERS",
+      "International": "Germany",
+      "Team": "Barcelona",
+      "Poster": "https://i.postimg.cc/wjJCrB2r/Gundogan.jpg"
+    },
+    {
+      "no": "21",
+      "name": "Frenkie de Jong",
+      "birth_date": "1997-05-12",
+      "Position": "MIDFIELDERS",
+      "International": "Netherlands",
+      "Team": "Barcelona",
+      "Poster": "https://i.postimg.cc/mZJrLq5g/De-Jong.jpg"
+    },
+    {
+      "no": "27",
+      "name": "Lamine Yamal",
+      "birth_date": "2007-07-13",
+      "Position": "FORWARDS",
+      "International": "Spain",
+      "Team": "Barcelona",
+      "Poster": "https://i.postimg.cc/BnTwY5MJ/Yamal.jpg"
+    },
+    {
+      "no": "9",
+      "name": "Robert Lewandowski",
+      "birth_date": "1988-08-21",
+      "Position": "FORWARDS",
+      "International": "Poland",
+      "Team": "Barcelona",
+      "Poster": "https://i.postimg.cc/NMzCNyWh/Lewandowski.jpg"
+    },
+    {
+      "no": "11",
+      "name": "Raphinha",
+      "birth_date": "1996-12-14",
+      "Position": "FORWARDS",
+      "International": "Brazil",
+      "Team": "Barcelona",
+      "Poster": "https://i.postimg.cc/XvPN40y1/Raphinha.jpg"
+    }
+  ]
+}
